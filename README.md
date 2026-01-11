@@ -1,5 +1,5 @@
 <p align="center">
-  A simple portfolio to introduce myself to the world. Have a look ✨
+ A glimpse into my world of code and creativity ✨
 </p>
 
 <p align="center">
